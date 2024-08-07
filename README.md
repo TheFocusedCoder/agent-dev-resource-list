@@ -42,3 +42,7 @@ Resources for learning how to build AI Agents.
 
 ## Agent Landscape
 - [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
+
+
+[![Sponsored by the Agent Developer Toolkit](https://img.shields.io/badge/Sponsored%20by-The%20Agent%20Developer%20Toolkit-blue?style=for-the-badge)](https://swiy.co/agent-toolkit)
+
