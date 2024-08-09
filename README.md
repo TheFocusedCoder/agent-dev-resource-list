@@ -5,7 +5,6 @@ Resources for learning how to build AI Agents.
 ## Gen AI Books
 - [AI Engineering](https://www.amazon.com/AI-Engineering-Building-Reliable-Systems/dp/1098129644)
 - [Generative AI on AWS](https://www.amazon.com/Generative-AI-AWS-Practical-Applications/dp/1098159225)
-- [Designing Large Language Model Applications](https://www.amazon.com/Designing-Large-Language-Model-Applications/dp/1098150872)
 - [Developing Apps with GPT-4 and ChatGPT](https://www.amazon.com/Developing-Apps-GPT-4-ChatGPT-Applications-Artificial/dp/1484291960)
 - [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1098134184)
 - [Applied Machine Learning and AI For Engineers](https://www.amazon.com/Applied-Machine-Learning-AI-Engineers/dp/1098102045)
