@@ -5,17 +5,13 @@ Resources for learning how to build AI Agents.
 ## Gen AI Books
 - [AI Engineering](https://www.amazon.com/AI-Engineering-Building-Reliable-Systems/dp/1098129644)
 - [Generative AI on AWS](https://www.amazon.com/Generative-AI-AWS-Practical-Applications/dp/1098159225)
-- [Developing Apps with GPT-4 and ChatGPT](https://www.amazon.com/Developing-Apps-GPT-4-ChatGPT-Applications-Artificial/dp/1484291960)
 - [Generative Deep Learning](https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines/dp/1098134184)
-- [Applied Machine Learning and AI For Engineers](https://www.amazon.com/Applied-Machine-Learning-AI-Engineers/dp/1098102045)
-- [Designing Autonomous AI](https://www.amazon.com/Designing-Autonomous-AI-Principles-Architectures/dp/1098146247)
 - [Natural Language Processing with Transformers](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
 
 ## Software Engineering Books
 - [Building Microservices](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 - [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
-- [Building Multi-Tenant SaaS Architectures](https://www.amazon.com/Building-Multi-Tenant-SaaS-Architectures-Applications/dp/1484290364)
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164)
 - [Fundamentals of Software Architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451)
 - [Fundamentals of Data Engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302)
